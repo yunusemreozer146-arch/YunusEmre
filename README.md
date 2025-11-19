@@ -1,4 +1,4 @@
- I'm Yunus Emre 👋
+ I'm Yunus Emre 
 I'm a junior full-stack developer focused mainly on JavaScript.  
 I’m  still early in my journey, but I learn fast, build consistently, and improve every single week.
 
